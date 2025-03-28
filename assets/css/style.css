@@ -191,6 +191,7 @@ article {
 
 aside {
     margin-right: .5em;
+    margin-bottom: 1em;
     width: 30%;
     display: flex;
     flex-direction: column;
