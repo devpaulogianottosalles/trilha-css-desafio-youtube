@@ -101,7 +101,7 @@ header {
 /* ------------------ MAIN SECTION ------------------ */
 
 main {
-    margin-left: 7%;
+    margin-left: 5%;
     margin-top: 2%;
     display: flex;
     gap: 2em;
@@ -118,7 +118,7 @@ article {
 
 .video {
     width: 100%;
-    height: 695px;
+    height: 555px;
 }
 
 .video iframe {
@@ -191,7 +191,7 @@ article {
 
 aside {
     margin-right: .5em;
-    width: 25%;
+    width: 30%;
     display: flex;
     flex-direction: column;
     gap: 2em;
@@ -199,6 +199,7 @@ aside {
 
 .recomended-video {
     display: flex;
+    height: 110px;
     gap: 1em;
 }
 
